@@ -27,3 +27,5 @@ conf = Config("settings.json")
 # access a key in your settings file
 languages = conf["settings"]["languages"]
 ```
+   
+   Published under [MIT License](https://gitlab.com/fabianschilf/json-config/blob/master/LICENSE)
