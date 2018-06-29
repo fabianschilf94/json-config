@@ -28,4 +28,4 @@ conf = Config("settings.json")
 languages = conf["settings"]["languages"]
 ```
    
-   Published under [MIT License](https://gitlab.com/fabianschilf/json-config/blob/master/LICENSE)
+   Published under [MIT License](https://github.com/fabianschilf94/json-config/blob/master/LICENSE)
